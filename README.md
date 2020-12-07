@@ -17,8 +17,9 @@ This project contains "backend" and "frontend" modules. I suppose to deploy back
 
 ### Mysql Configuration 
 Here is you can specify credentials and url for your MySql instance 
-"src/main/resources/application.properties"
+"service-health-tracker/backend/src/main/resources/application.properties"
 
+Assume you are inside the "service-health-tracker" folder.
 * go to the "service-health-tracker/backend"
 
 ```
